@@ -4,7 +4,8 @@
 int main()
 {
     //Multiplicacion de dos numeros en master
-    int x=3, y=3, z;  
+    int x=4, y=4, z;  
+    
     printf("Hello!\n");
     
     //Multiplicacion
